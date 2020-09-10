@@ -1,4 +1,4 @@
-Dictionary changelog.
+This is an archive of some pre-GitHub changes to this dictionary set. Unfortunately I only thought to write changelogs recently, so this log is rather limited, but it's still available for historical purposes. Changes going forward will be logged in commits, not here.
 9/4/2020.
 Removed IT from main as it's too ambiguous.
 New main words: Pulseaudio, both capitalized and lowercase.
