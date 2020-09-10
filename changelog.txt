@@ -1,0 +1,22 @@
+Dictionary changelog.
+9/4/2020.
+Removed IT from main as it's too ambiguous.
+New main words: Pulseaudio, both capitalized and lowercase.
+New root words: cthulhu (uses simplified pronunciation as high level processing of phonemes means that Eloquence cannot approximate Lovecraft's suggested pronunciation), azathoth, beetlejuice, gettysburg, spambot, synthwave, lauda, syntalk, otamatone, macarena, Isaias, dovecote, nevaeh.
+9/5/2020.
+New words in root: readymade, litecoin, wifi, cryptocoin, iframe, blocklist, ahistoric, ofcom, rootkit, Xperia, wintel, soundwave, pentest, Afroman, anderle, varig.
+9/6/2020
+Added another variant of voila.
+Actually removed IT from main, oops.
+New root words: Indiegogo, unearthing, snapin, reg, file, and perfmon, tencent, Truevision, berenstain, Aeroflot, Tafuri, tulua, both accented and non-accented, Bogotá, paulstretch, Livonia, linkedin, lemony, hypochondria, yodle, protégé, plus a few more Space Team words. Tyrra, Juggacrush, sloorg, motherfonk.
+Changed phoneme code for Habib as the old fix sounded rather unpleasant.
+Converted Wii, Alicia, and misc to phonemics.
+9/7/2020
+New root words: Huelsbeck, Asiana.
+9/8/2020.
+New root words: haves, Remus, Azkaban, blogpost, holo, Mikael, Gómez, trackbar, plegic (para and quadri are roots so entering those forms of the word separately isn't necessary), mailto, shockwave, Kingett, ddemonstrable.
+9/9/2020
+New root words: livestream, gamedev, automating, Schiphol, Gedalya, Shiite, Yousef, recap.
+Removed Andrea as the original Eloquence pronunciation is used by some people. There's also Andrea Communications, the headset manufacturer. May restore it if it turns out the pronunciation I entered in the root is more common.
+9/10/2020
+New root words: Prager, Annemarie, ruleset, prioritise (British spelling), bellend, declutter, Xanax, entombinator, Loranian, Maddox.
