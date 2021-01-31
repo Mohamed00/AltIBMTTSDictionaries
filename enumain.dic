@@ -55,7 +55,6 @@ vgmstream	VGM Stream
 IED	i E D
 Forcepad	force `0 pad
 forcepad	force `0 pad
-flextalk	flex `0 talk
 AC/DC	AC DC
 Pulseaudio	Pulse Audio
 pulseaudio	Pulse Audio
