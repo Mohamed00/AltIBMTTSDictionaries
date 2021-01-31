@@ -30,9 +30,9 @@ TI	T `1 I
 nvaccess	N V Access
 TSA	T S A
 tsa	T S A
-LOL	L O `[El]
-lol	L O `[El]
-Lol	L O `[El]
+LOL	`[El] O `[El]
+lol	`[El] O `[El]
+Lol	`[El] O `[El]
 url	URL
 APH	`1 A P H
 Basecamp	base `0 camp
