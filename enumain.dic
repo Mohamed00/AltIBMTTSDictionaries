@@ -14,11 +14,6 @@ UEB	U E B
 IGN	`1 I GN
 EFF	E F F
 P!nk	pink
-facepalm	face `0 palm
-Facepalm	face `0 palm
-facepalms	face `0 palms
-facepalming	face `0 palming
-facepalmed	face `0 palmed
 TI	T `1 I
 nvaccess	N V Access
 TSA	T S A
@@ -28,8 +23,6 @@ lol	`[El] O `[El]
 Lol	`[El] O `[El]
 url	URL
 APH	`1 A P H
-Basecamp	base `0 camp
-basecamp	base `0 camp
 pwn		`[pon]
 Pwn	`[p1on]
 pwned	`[1pond]
@@ -37,23 +30,16 @@ Pwned	`[pond]
 Pwning	`[p1onIG]
 pwning	`[p1onIG]
 pwnage	`[1ponXJ]
-mixtape	mix `0 tape
-mixtapes	mix `0 tapes
-Mixtape	mix `0 tape
-Mixtapes	mix `0 tapes
 CRISPR	`[kr1IspR]
 ER	E R
 ios	i OS
 IOS	i OS
 MCAS	`[1Em2kAs]
 FMOD	`[1Ef2mad]
-Xcode	X `0 code
 IMEI	`1 I M E `1 I
 CE	`[si] `[i]
 vgmstream	VGM Stream
 IED	i E D
-Forcepad	force `0 pad
-forcepad	force `0 pad
 AC/DC	AC DC
 Pulseaudio	Pulse Audio
 pulseaudio	Pulse Audio
@@ -69,21 +55,17 @@ cul-de-sac	`[k1Hldx2sAk]
 cul-de-sacs	`[k1Hldx2sAks]
 Cul-de-sac	`[k1Hldx2sAk]
 Cul-de-sacs	`[k1Hldx2sAks]
-Rightscorp	rights `0 korp
 Megaupload	mega `0 upload
-rightscorp	rights `0 korp
 megaupload	mega `0 upload
 Freedb	Free DB
 freedb	Free DB
 CSPAN	`[s1i2spAn]
 CFIT	`[s1i2fIt]
 QWERTY	`[kw1Rti]
-Tascam	`[tAs] `0 `[kAm]
 Chargoggagoggmanchauggagoggchaubunagungamaugg	`[Carg1cgxgcg] `[mAnCxg1cgxgcg] `[CabanXg1Hmgxmcg]
 CNET	`[s1i2nEt]
 openmpt	Open MPT
 MBROLA	`[Embr1olx]
-tracepath	trace `0 path
 Jawed	`[J1avXd]
 Hydrogenaudio	Hydrogen Audio
 MIC	M `1 I C
@@ -93,11 +75,7 @@ FHIR	`[fYr]
 ID'd	`1 I `[did]
 roledescription	role description
 Yooka-Laylee	`[yukx1leli]
-crosstalk	cross `0 talk
-Crosstalk	cross `0 talk
 IBS	`1 I BS
-Mixcloud	mix `0 cloud
-mixcloud	mix `0 cloud
 Qi	`[Ci]
 GIF	`[JIf]
 Axl	`[1Aksxl]
