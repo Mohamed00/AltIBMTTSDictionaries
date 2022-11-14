@@ -8,3 +8,6 @@ If you'd like to contribute words to this dictionary, please create an issue or 
 * Domain names, file names, usernames, social media handles and similar words
 * Compound words that have very few real world examples, E.G. a compound that only appears on one blog post on one website
 * Dictionary entries that could be interpreted as forcing a personal preference on users, E.G. an entry in the abbreviations dictionary that forcefully disables an abbreviation you don't like, or an entry in the main dictionary that expands an abbreviation that you do like
+
+## Letter representation in main dictionaries
+In entries that use SPRs, I don't really care how they're written, as long as the resulting pronunciation is valid.  However, in the main dictionary, for consistency and to guard against sentence bugs, letters should be represented by [this set of misspellings](https://github.com/Mohamed00/AltIBMTTSDictionaries/blob/master/doc/main%20dictionary%20spellings.md).
