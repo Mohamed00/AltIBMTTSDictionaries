@@ -11,5 +11,10 @@ If you'd like to contribute words to this dictionary, please create an issue or 
 * Abbreviation dictionary entries. For various reasons, including the limitations of the abbreviation dictionary format, and the possibility of abbreviations having several meanings and/or conflicting with real words/acronyms, abbreviation dictionary entries are not accepted for any language
 * Very large dictionary contributions in one issue or pull request. This project values careful sourcing and quality over quantity, so lots of entries at once, e.g. in the hundreds or thousands, are unlikely to be accepted, unless evidence is provided that the entries match the standards that are expected here
 
+## Main vs root dictionary
+When adding new entries, the roots dictionary should generally be used in most cases. However, the main dictionary should be used if adding:
+* Acronyms, such as UTI or FAQ
+* Entries containing hyphens
+* Entries that would break legitimate words if they were added to the root dictionary
 ## Letter representation in main dictionaries
 In entries that use SPRs, I don't really care how they're written, as long as the resulting pronunciation is valid.  However, in the main dictionary, for consistency and to guard against sentence bugs, letters should be represented by [this set of misspellings](https://github.com/Mohamed00/AltIBMTTSDictionaries/blob/master/doc/main%20dictionary%20spellings.md).
