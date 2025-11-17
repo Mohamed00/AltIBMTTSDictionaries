@@ -1,6 +1,6 @@
 # AltIBMTTSDictionaries
 An alternative set of dictionaries for IBMTTS.
-Accepts community contributions, but generally aims to be a minimalist project.
+Accepts community contributions, but generally aims to be a minimalist project, with high quality, carefully researched entries.
 ## IBMTTS dictionary
 This project contains dictionary files specifically optimized for IBMTTS 6.7, the same version used on Linux, but also available for Windows, which are located in the IBMTTS 6.7 folder in this repository. The IBMTTS dictionaries fix a number of IBMTTS-specific pronunciation issues, and remove over 300 words that it pronounces correctly.
 To use the dictionaries on Linux, rename enumain.dic and enuroot.dic to main.dct and root.dct, respectively, and place them in /var/opt/IBM/ibmtts/dict, or /var/opt/IBM/ibmtts/dict/en, or /var/opt/IBM/ibmtts/dict/en_US.
