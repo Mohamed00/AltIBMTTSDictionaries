@@ -13,9 +13,11 @@ Additionally, entries that will not be accepted include, but are not limited to:
 * Abbreviation dictionary entries. For various reasons, including the limitations of the abbreviation dictionary format, and the possibility of abbreviations having several meanings and/or conflicting with real words/acronyms, abbreviation dictionary entries are not accepted for any language
 * Very large dictionary contributions in one issue or pull request. This project values careful sourcing and quality over quantity, so lots of entries at once, e.g. in the hundreds or thousands, are unlikely to be accepted, unless evidence is provided that the entries match the standards that are expected here
 
-## Sourcing for name pronunciations
+## Prefered sources
+
 For pronunciations of given names, real world usage is prefered over name pronunciation sites. For instance, a video where someone who has a particular name is pronouncing it, example: "hi this is [name] here," or an interview where the interviewer pronounces the name, example: "hello, we have [name] here with us.
 Also make sure you have multiple sources for the name pronunciation by people who are completely unrelated to each other.
+For words, dictionaries such as merriam-webster, dictionary.com, Collins, etc. are prefered.
 
 ## Main vs root dictionary
 When adding new entries, the roots dictionary should generally be used in most cases. However, the main dictionary should be used if adding:
